@@ -1,0 +1,8 @@
+name: MultiInventory
+author: _FabioTNT
+version: 1.0.0-SNAPSHOT
+main: com._FabioTNT.multiinventory.Main
+commands:
+  multiinventory:
+    description: Main Command
+    aliases: [mi, multi, minv, inventory]
