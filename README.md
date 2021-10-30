@@ -1,6 +1,20 @@
-Plugin to save an inventory and laod it in a second time.
+# Welcome to MultiInventory!
 
-Comandi:\
-/mi save nome > Per slavare un unventario 
-/mi load nome > Per caricare un inventario
-/mi delete nome > Per eliminare un inventario
+MultiInventory is a simple plugin to save an inventory and laod it in a second moment.
+
+
+# Commands
+
+The main command is /mi
+
+## Save an inventory
+
+/mi save \<inventory name>
+
+## Load a saved inventory
+
+/mi load \<inventory name>
+
+## Delete a saved inventory
+
+/mi delete \<inventory name>
